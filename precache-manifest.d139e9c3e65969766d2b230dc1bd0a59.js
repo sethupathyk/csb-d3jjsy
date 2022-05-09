@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "37fb07808923fd15d744",
-    "url": "https://sethupathyk.github.io/csb-d3jjsy/static/css/main.dda56c0a.chunk.css"
+    "revision": "b4df05407de0d5f13616",
+    "url": "https://sethupathyk.github.io/csb-d3jjsy/static/css/main.651d467b.chunk.css"
   },
   {
-    "revision": "37fb07808923fd15d744",
-    "url": "https://sethupathyk.github.io/csb-d3jjsy/static/js/main.ba251cd2.chunk.js"
+    "revision": "b4df05407de0d5f13616",
+    "url": "https://sethupathyk.github.io/csb-d3jjsy/static/js/main.a273343b.chunk.js"
   },
   {
     "revision": "ccbc148926ffdaf8d336",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://sethupathyk.github.io/csb-d3jjsy/static/js/2.becacbb4.chunk.js"
   },
   {
-    "revision": "6c4cc9e172df6645ba26d52b11d669c6",
+    "revision": "a13bc043e5ea0d50dd2c36dff76b9d0f",
     "url": "https://sethupathyk.github.io/csb-d3jjsy/index.html"
   }
 ];
